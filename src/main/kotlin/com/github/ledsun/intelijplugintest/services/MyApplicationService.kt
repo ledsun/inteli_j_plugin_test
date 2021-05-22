@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ledsun.intelijplugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ledsun.intelijplugintest.MyBundle
 
 class MyApplicationService {
 
